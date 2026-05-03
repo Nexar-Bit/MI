@@ -1,1 +1,1 @@
-Trc20: TMQrzMeAt3fsoqKmh4qNavDBpCShebLAqP
+BEP20: 0xbaff577411123e79088b128b1d382b75c8cce8cf
